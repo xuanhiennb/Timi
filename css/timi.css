@@ -1,0 +1,61 @@
+.btn-login {
+    border: none;
+    outline: none;
+}
+
+.btn-login:hover {
+    background: none;
+}
+
+.btn-login span:hover {
+    color: #df7373;
+}
+
+.hr {
+    margin-bottom: 1px;
+    margin-top: 12px;
+}
+
+.box-menu {
+    border: none;
+    outline: none;
+    background: none;
+}
+
+ul li img {
+    height: 18px;
+    margin-right: 5px;
+    margin-top: -3px;
+}
+
+.menu ul li a {
+    font-size: 14px;
+}
+
+.menu ul li a span:hover {
+    color: #df7373;
+}
+
+.underline {
+    margin-top: -19px;
+    height: 1px;
+    background: rgb(255, 81, 0);
+}
+
+.body-box {
+    padding-top: 20px;
+    background: whitesmoke;
+    padding-bottom: 20px;
+}
+
+.mini-menu li a:hover {
+    color: #df7373;
+}
+
+.mini-news:hover span {
+    color: #df7373;
+}
+
+.mini-news:hover img {
+    opacity: 0.7;
+}
